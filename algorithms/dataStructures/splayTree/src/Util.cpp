@@ -1,9 +1,7 @@
 /****************************************************************
 *  File: Util.cpp
-*  Project: 2
 *  Author: Robert Grossman
 *  Created on: November 1, 2014
-*  Section: 03
 *  E-mail: rgross1@umbc.edu
 *
 *  This file contains the implementation for the Util class that is used

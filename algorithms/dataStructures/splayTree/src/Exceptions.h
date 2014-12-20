@@ -1,14 +1,3 @@
-/**************************************************************
- * File:    MyExceptions.h
- * Project: CMSC 341 - Project 2 - Index Creator
- * Author : 
- * Date   : 17-June-2014
- * Section: Lecture-02
- * E-mail:  
- *
- * MyExceptions Class definition.
- *
- *************************************************************/
 #ifndef MYEXCEPTIONS_H
 #define MYEXCEPTIONS_H
 #include <string>

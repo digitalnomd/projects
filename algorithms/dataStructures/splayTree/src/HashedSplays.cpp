@@ -1,9 +1,7 @@
 /****************************************************************
 *  File: HashedSplays.cpp
-*  Project: 2
 *  Author: Robert Grossman
 *  Created on: November 2, 2014
-*  Section: 03
 *  E-mail: rgross1@umbc.edu
 *
 *  This file contains the implementation for the HashedSplays class that is used

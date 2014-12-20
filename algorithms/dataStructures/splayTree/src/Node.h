@@ -1,10 +1,5 @@
 /**************************************************************
  * File:    Node.h
- * Project: CMSC 341 - Project 3 - Word Frequency
- * Author : 
- * Date   : 04-November-2014
- * Section: Lecture-02
- * E-mail:  
  *
  * Node Class definition.
  *************************************************************/

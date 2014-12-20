@@ -1,14 +1,3 @@
-/**************************************************************
- * File:    driver.cpp
- * Project: CMSC 341 - Project 3 - Word Frequency
- * Author : 
- * Date   : 04-November-2014
- * Section: Lecture-02
- * E-mail:  
- *
- * HashedSplays Class implementation.
- *
- *************************************************************/
 #include "HashedSplays.h"  // Includes constants
 
 using namespace std;
