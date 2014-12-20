@@ -1,9 +1,7 @@
 /****************************************************************
  *   File: Graph.h
- *   Project: 5
  *   Author: Robert Grossman
  *   Created on: December 6, 2014
- *   Section: 03
  *   E-mail: rgross1@umbc.edu
  * 
  *   This file contains the interface for the Graph class that is used
