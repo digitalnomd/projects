@@ -1,8 +1,6 @@
 /****************************************************************
 *  File: Util.cpp
-*  Author: Robert Grossman
 *  Created on: November 1, 2014
-*  E-mail: rgross1@umbc.edu
 *
 *  This file contains the implementation for the Util class that is used
 * as a static class for string manipulation.

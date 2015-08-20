@@ -1,8 +1,6 @@
 /****************************************************************
 *  File: Util.h
-*  Author: Robert Grossman
 *  Created on: November 1, 2014
-*  E-mail: rgross1@umbc.edu
 *
 *  This file contains the interface for the Util class that is used
 * as a static class for string manipulation.

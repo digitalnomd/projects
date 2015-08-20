@@ -1,8 +1,6 @@
 /****************************************************************
  *   File: Graph.h
- *   Author: Robert Grossman
  *   Created on: December 6, 2014
- *   E-mail: rgross1@umbc.edu
  * 
  *   This file contains the interface for the Graph class that is used
  *  to read in the data from an input file, create a representation of the

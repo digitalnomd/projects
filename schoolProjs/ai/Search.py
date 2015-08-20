@@ -1,5 +1,3 @@
-#Author: Robert Grossman
-#CMSC471- Spring 2015
 
 import sys
 from operator import itemgetter

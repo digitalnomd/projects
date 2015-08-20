@@ -1,8 +1,6 @@
 /****************************************************************
 *  File: HashedSplays.h
-*  Author: Robert Grossman
 *  Created on: November 2, 2014
-*  E-mail: rgross1@umbc.edu
 *
 *  This file contains the interface for the HashedSplays class that is used
 * as the main base class for the project. HashedSplays holds all of the splay

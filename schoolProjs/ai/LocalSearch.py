@@ -1,5 +1,3 @@
-#Author: Robert Grossman
-#CMSC471- Spring 2015
 #Description: This file includes implementation of local search algorithms:
 #               1. Hill Climbing
 #               2. Simulated Annealing
